@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veixaezah.czapko.pl/sitemap.xml
